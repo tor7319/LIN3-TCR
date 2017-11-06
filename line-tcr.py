@@ -52,7 +52,7 @@ helpMessage =""" Chivas Bot
 
 [*] Command kicker only [*]
 
-[Bye]
+[บาย]
 [Kill ban]
 [Kill 「@」]
 [Ban 「@」] By Tag
